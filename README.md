@@ -1,5 +1,5 @@
-**Selenium Automation Testing with Java**
-Selenium WebDriver automation framework using Java, covering TestNG, Page Object Model (POM), advanced locators, cross-browser testing, and real-world web automation best practices.
+**Selenium Automation Testing with Java-**
+ Selenium WebDriver automation framework using Java, covering TestNG, Page Object Model (POM), advanced locators, cross-browser testing, and real-world web automation best practices.
 
 ## **Covered Topics**
 
